@@ -18,7 +18,8 @@
 
 ## 🎓 About Me
 
-- 🎓 **B.Tech CSE (2nd Year)**  
+- 🎓 **B.Tech CSE (2nd Year)** 
+- 🖊️ Institute of Engineering and Management, (New Town)**
 - 🏫 **University of Engineering & Management, Kolkata**
 
 
